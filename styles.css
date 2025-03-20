@@ -1078,3 +1078,7 @@ nav .hamburger.active .bar:nth-child(3) {
     #contact-send:hover{
         background-color: var(--couleur-secondaire);
     }
+    body {
+        user-select: none;
+      }
+      
